@@ -183,7 +183,7 @@ mainCyclist.addAnimation("SahilRunning",mainRacerImg1);
 pinkCG.destroyEach();
 yellowCG.destroyEach();
 redCG.destroyEach();
-destance = 0;
+distance = 0;
 }
 
 
